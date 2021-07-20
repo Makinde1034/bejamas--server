@@ -1,12 +1,12 @@
 {
   "products":[
     {
-      "name": "Red Bench",
-      "category": "people",
+      "name": "Horse",
+      "category": "pet",
       "price": 3.89,
       "currency": "USD",
       "image": {
-        "src": "",
+        "src": "https://images.unsplash.com/photo-1581592717577-4e4a4045677c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=654&q=80",
         "alt": ""
       },
       "bestseller": true,
@@ -14,11 +14,13 @@
       "details": null
     },
     {
-      "name": "Egg Balloon",
+      "name": "birminham",
       "category": "food",
       "price": 93.89,
       "currency": "USD",
-      "image": "",
+      "image": {
+        "src":"https://images.unsplash.com/photo-1581345331996-2496ba69a92e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=339&q=80"
+      },
       "bestseller": false,
       "featured": false,
       "details": null
@@ -29,7 +31,7 @@
       "price": 100,
       "currency": "USD",
       "image": {
-      "src": "",
+      "src": "https://images.unsplash.com/photo-1579009120139-f41119c5e2ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=410&q=80",
       "alt": ""
       },
       "bestseller": false,
@@ -45,7 +47,9 @@
       "width": 1020,
       "height": 1020
       },
-      "image": "",
+      "image": {
+        "src":"https://images.unsplash.com/photo-1563491830912-083ee2af160d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+      },
       "bestseller": false,
       "featured": false,
       "details": null
