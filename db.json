@@ -1,5 +1,96 @@
 {
   "products":[
+     {
+      "name": "pizza",
+      "category": "food",
+      "price": 3.22,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGl6emF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+      },
+    {
+      "name": "duck",
+      "category": "pet",
+      "price": 787.34,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1459682687441-7761439a709d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZHVja3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+      },
+    {
+      "name": "Ferrari",
+      "category": "landmark",
+      "price": 3.34,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1527247043589-98e6ac08f56c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmVycmFyaXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+      },
+     {
+      "name": "Book",
+      "category": "People",
+      "price": 7.34,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym9va3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+      },
+     {
+      "name": "Chucky",
+      "category": "pet",
+      "price": 7.34,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1602306081673-f26c56e0c0c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+      },
+      {
+      "name": "Ship",
+      "category": "landmark",
+      "price": 7.34,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1617533911809-ff38dcc44e7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+     {
+      "name": "Cat",
+      "category": "pet",
+      "price": 5.34,
+      "currency": "USD",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=363&q=80",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
     {
       "name": "Horse",
       "category": "pet",
