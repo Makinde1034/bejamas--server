@@ -2,6 +2,7 @@
   "products":[
      {
       "name": "pizza",
+      "quantity":1
       "category": "food",
       "price": 3.22,
       "currency": "USD",
@@ -15,6 +16,7 @@
       },
     {
       "name": "duck",
+      "quantity":1
       "category": "pet",
       "price": 787.34,
       "currency": "USD",
@@ -28,6 +30,7 @@
       },
     {
       "name": "Ferrari",
+      "quantity":1
       "category": "landmark",
       "price": 3.34,
       "currency": "USD",
@@ -41,6 +44,7 @@
       },
      {
       "name": "Book",
+       "quantity":1
       "category": "People",
       "price": 7.34,
       "currency": "USD",
@@ -54,6 +58,7 @@
       },
      {
       "name": "Chucky",
+       "quantity":1
       "category": "pet",
       "price": 7.34,
       "currency": "USD",
@@ -67,6 +72,7 @@
       },
       {
       "name": "Ship",
+      "quantity":1
       "category": "landmark",
       "price": 7.34,
       "currency": "USD",
@@ -80,6 +86,7 @@
     },
      {
       "name": "Cat",
+       "quantity":1
       "category": "pet",
       "price": 5.34,
       "currency": "USD",
@@ -93,6 +100,7 @@
     },
     {
       "name": "Horse",
+      "quantity":1
       "category": "pet",
       "price": 3.89,
       "currency": "USD",
@@ -106,6 +114,7 @@
     },
     {
       "name": "Birminham",
+      "quantity":1
       "category": "food",
       "price": 93.89,
       "currency": "USD",
@@ -118,6 +127,7 @@
     },
     {
       "name": "Man",
+      "quantity":1
       "category": "people",
       "price": 100,
       "currency": "USD",
@@ -131,6 +141,7 @@
     },
     {
       "name": "Architecture",
+      "quantity":1
       "category": "landmarks",
       "price": 101,
       "currency": "USD",
@@ -147,6 +158,7 @@
     },
     {
       "name": "Samurai King Restling",
+      "quantity":1
       "category": "landmarks",
       "price": 101,
       "currency": "USD",
